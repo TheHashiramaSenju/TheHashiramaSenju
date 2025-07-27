@@ -19,7 +19,7 @@ My mission is to translate this incredible support into building practical data 
 * 🔭 **Currently:** I am scaling our ML teaching program and developing a real-world, open-source project for the local community.
 * 🌱 **Learning:** Advanced MLOps practices for robust model versioning, monitoring, and continuous deployment (CI/CD).
 * 🤝 **Open to Collaborating on:** Data-for-good initiatives, open-source educational tools, and projects requiring practical ML implementation.
-* 📫 **Reach me at:** **dss.professional@gmail.com** <!--or connect on <!--[**LinkedIn**](https://www.linkedin.com/in/your-linkedin-profile-url) *(<- Add your LinkedIn URL here)*-->
+* 📫 **Reach me at:** **dss.proffesional@gmail.com** <!--or connect on <!--[**LinkedIn**](https://www.linkedin.com/in/your-linkedin-profile-url) *(<- Add your LinkedIn URL here)*-->
 
 ---
 
