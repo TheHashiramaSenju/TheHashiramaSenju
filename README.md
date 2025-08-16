@@ -1,6 +1,6 @@
 <div align="center" style="padding-bottom: 10px;">
  <h1 style="font-weight:600; font-size:2.2em; margin-bottom: 5px;">
-  👋 Hi, I’m Darshan (aka TheHashiramaSenju)
+  👋 Hi, I’m TheHashiramaSenju
  </h1>
  <p style="font-size:1.1em; margin-top:0;">
   Building robust ML pipelines • Crafting clean, scalable code • Bridging data & stakeholders
