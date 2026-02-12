@@ -42,8 +42,8 @@ All my novel research and community-driven projects are made possible through th
 ---
 
 <p align="center">
-  <a href="https://www.youtube.com/@tensorvalai"><img src="https://readmecodegen.vercel.app/api/social-icon?name=youtube&bg=transparent&size=40" alt="YouTube"/></a>
-  <a href="https://medium.com/@thehashiramasenju"><img src="https://readmecodegen.vercel.app/api/social-icon?name=medium&bg=transparent&size=40" alt="Medium"/></a>
-  <a href="https://www.linkedin.com/in/darshanv1/"><img src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&bg=transparent&size=40" alt="LinkedIn"/></a>
-  <!-- <a href="YOUR_GOOGLE_SCHOLAR_URL"><img src="https://readmecodegen.vercel.app/api/social-icon?name=googlescholar&bg=transparent&size=40" alt="Google Scholar"/></a> -->
+  <a href="https://www.youtube.com/@tensorvalai"><img src="https://readmecodegen.vercel.app/api/social-icon?name=youtube&bg=transparent&size=40" alt="YouTube"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@thehashiramasenju"><img src="https://readmecodegen.vercel.app/api/social-icon?name=medium&bg=transparent&size=40" alt="Medium"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/darshanv1/"><img src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&bg=transparent&size=40" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://orcid.org/0009-0002-1635-0120"><img src="https://readmecodegen.vercel.app/api/social-icon?name=orcid&bg=transparent&size=40" alt="ORCID"/></a>
 </p>
