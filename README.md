@@ -22,7 +22,7 @@ My mission is to translate this incredible support into building practical data 
 
 ## 🛠️ Core Toolkit
 
-* **Languages:** Python, SQL, C++, C, JavaScript, CUDA C
+* **Languages:** Python, SQL, C++, C, CUDA C, Rust 
 * **Data Science & ML:** Scikit-Learn, Pandas, NumPy, TensorFlow, PyTorch, Streamlit
 * **Data & Databases:** MySQL, PostgreSQL, MongoDB
 * **Tools & Platforms:** Docker, Git, Power BI, VS Code, Apache Superset, Apache Spark, GCP
