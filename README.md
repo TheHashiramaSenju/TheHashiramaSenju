@@ -7,12 +7,12 @@
 </div>
 <table align="center">
 <tr>
-<td width="28%" align="center">
+<td width="30%" align="center">
 
 <img src="./ascii-portrait.png" width="220" style="border-radius: 50%;"/>
 
 </td>
-<td width="72%">
+<td width="50%">
 
 ```bash
 darshan@ml-lab:~$ open case_file.txt
