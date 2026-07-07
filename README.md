@@ -25,7 +25,7 @@ FIELD NOTES    :
  > Teaching -  practical data science and ML engineering
  > Deploying - open-source, community-first tools on medical systems
  > Translating - research into real impact 
- > Currrently - Learning Distributed ML and Bio-statistics for applied ML in healthcare sciences
+ > Currrently - Learning Distributed ML and Bio-statistics
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
