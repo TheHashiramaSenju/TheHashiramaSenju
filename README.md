@@ -21,10 +21,11 @@ CURRENT FOCUS  : Applied ML Research & Educating
 FUNDING        : Annamalaiyar Foundation
 MENTORSHIP     : Tiruchendur Murugan Arakkattalai
 FIELD NOTES    :
- > Building production-grade ML pipelines
- > Teaching practical data science
- > Deploying open-source, community-first tools
- > Translating research into real impact
+ > Building -  production-grade ML pipelines
+ > Teaching -  practical data science and ML engineering
+ > Deploying - open-source, community-first tools on medical systems
+ > Translating - research into real impact 
+ > Currrently - Learning Distributed ML and Bio-statistics for applied ML in healthcare sciences
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
