@@ -10,7 +10,7 @@
 <tr>
 <td width="38%" align="center">
 
-<img src="https://github.com/TheHashiramaSenju.png" width="330" style="border-radius: 50%;"/>
+<img src="./ascii-portrait.png" width="330" style="border-radius: 50%;"/>
 
 </td>
 <td width="62%">
