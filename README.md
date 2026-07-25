@@ -3,7 +3,7 @@
 <tr>
 <td width="30%" align="center">
 
-<img src="./ascii-portrait.png" width="150" style="border-radius: 20%;"/>
+<img src="./pfp-removebg-preview-ascii-art.png" width="150" style="border-radius: 20%;"/>
 
 </td>
 <td width="50%">
