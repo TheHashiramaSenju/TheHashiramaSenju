@@ -1,12 +1,11 @@
-
 <table align="center">
 <tr>
-<td width="30%" align="center">
+<td width="25%" align="center">
 
-<img src="./pfp-removebg-preview-ascii-art.png" width="150" style="border-radius: 20%;"/>
+<img src="./ascii_portrait.png" width="150" style="border-radius: 20%;"/>
 
 </td>
-<td width="50%">
+<td width="75%" valign="top">
 
 ```bash
 darshan@ml-lab:~$ open case_file.txt
@@ -21,11 +20,11 @@ CURRENT FOCUS  : Applied ML Research & Educating
 FUNDING        : Annamalaiyar Foundation
 MENTORSHIP     : Tiruchendur Murugan Arakkattalai
 FIELD NOTES    :
- > Building -  production-grade ML pipelines
- > Teaching -  practical data science and ML engineering
- > Deploying - open-source, community-first tools on medical systems
- > Translating - research into real impact 
- > Currrently - Learning Distributed ML and Bio-statistics
+ > Building    - production-grade ML pipelines
+ > Teaching    - practical data science and ML engineering
+ > Deploying   - open-source, community-first tools on medical systems
+ > Translating - research into real impact
+ > Currently   - Learning Distributed ML and Bio-statistics
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
@@ -33,48 +32,167 @@ FIELD NOTES    :
 </tr>
 </table>
 
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+```bash
+darshan@ml-lab:~$ cat active_ops.log
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[+] Fetching current R&D threads...
+
+[🧠] INTERESTS
+ > Hardware-software BCI
+ > Distributed computing
+ > Highly scalable systems
+
+[📚] FOCUS AREAS
+ > Deep Machine Learning research
+ > Adv. Linear Algebra & ODEs
+
+[🔬] EXPLORING
+ > Bio-ML research pipelines
+ > Adv. RL training methodologies
+
+[🤝] COLLABORATIONS
+ > Open to Bio-ML partnerships
+ > Deep ML implementation
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+</td>
+<td width="50%" valign="top">
+
+```bash
+darshan@ml-lab:~$ cat philosophy.txt
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[+] DECODING OPERATIONAL ETHOS...
+
+"I am a strong advocate for 
+continuous learning. 
+
+While my core focus is data 
+science, I actively explore 
+adjacent domains. 
+
+Interdisciplinary experience 
+is what fuels genuine innovation 
+and sharpens problem-solving."
+
+ > ETHOS  : INTERDISCIPLINARY
+ > STATUS : EXECUTING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-## What I'm Doing
+```bash
+darshan@ml-lab:~$ load_modules --toolkit --visual
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
-- 🧠 **Interests:** Hardware-software brain integration (BCI), distributed computing, and engineering highly scalable systems.
-- 📚 **Focus Areas:** Deepening Machine Learning research, advanced Linear Algebra, and Differential Equations.
-- 🔬 **Exploring:** Bio-ML research pipelines and advanced Reinforcement Learning (RL) training methodologies.
-- 🤝 **Collaborations:** Open to research partnerships in Bio-ML, Reinforcement Learning, and deep ML implementation.
+<table align="center">
+  <tr>
+    <th align="left"><b><code>[💻] Languages</code></b></th>
+    <th align="left"><b>Level</b></th>
+    <th align="left"><b><code>[🧠] ML & Data Science</code></b></th>
+    <th align="left"><b>Level</b></th>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/python" width="16" valign="middle" /> <b>Python</b></td>
+    <td><code>██████████</code>&nbsp;100%</td>
+    <td><img src="https://cdn.simpleicons.org/scikitlearn" width="16" valign="middle" /> <b>Scikit-Learn</b></td>
+    <td><code>██████████</code>&nbsp;100%</td>
+  </tr>
+  <tr>
+    <td>🗃️ <b>SQL</b></td>
+    <td><code>██████████</code>&nbsp;100%</td>
+    <td><img src="https://cdn.simpleicons.org/pandas" width="16" valign="middle" /> <b>Pandas</b></td>
+    <td><code>██████████</code>&nbsp;100%</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/cplusplus" width="16" valign="middle" /> <b>C++</b></td>
+    <td><code>█████████░</code>&nbsp;90%</td>
+    <td><img src="https://cdn.simpleicons.org/numpy" width="16" valign="middle" /> <b>NumPy</b></td>
+    <td><code>██████████</code>&nbsp;100%</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/c" width="16" valign="middle" /> <b>C</b></td>
+    <td><code>█████████░</code>&nbsp;90%</td>
+    <td><img src="https://cdn.simpleicons.org/tensorflow" width="16" valign="middle" /> <b>TensorFlow</b></td>
+    <td><code>█████████░</code>&nbsp;90%</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/nvidia" width="16" valign="middle" /> <b>CUDA C</b></td>
+    <td><code>████████░░</code>&nbsp;80%</td>
+    <td><img src="https://cdn.simpleicons.org/pytorch" width="16" valign="middle" /> <b>PyTorch</b></td>
+    <td><code>█████████░</code>&nbsp;90%</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/rust/E34F26" width="16" valign="middle" /> <b>Rust</b></td>
+    <td><code>███████░░░</code>&nbsp;70%</td>
+    <td><img src="https://cdn.simpleicons.org/streamlit" width="16" valign="middle" /> <b>Streamlit</b></td>
+    <td><code>█████████░</code>&nbsp;90%</td>
+  </tr>
+  <tr>
+    <th align="left"><b><code>[🗄️] Databases</code></b></th>
+    <th align="left"><b>Level</b></th>
+    <th align="left"><b><code>[🛠️] Tools & Platforms</code></b></th>
+    <th align="left"><b>Level</b></th>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/mysql" width="16" valign="middle" /> <b>MySQL</b></td>
+    <td><code>██████████</code>&nbsp;100%</td>
+    <td><img src="https://cdn.simpleicons.org/git" width="16" valign="middle" /> <b>Git</b></td>
+    <td><code>██████████</code>&nbsp;100%</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/postgresql" width="16" valign="middle" /> <b>PostgreSQL</b></td>
+    <td><code>█████████░</code>&nbsp;90%</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="16" valign="middle" /> <b>VS Code</b></td>
+    <td><code>██████████</code>&nbsp;100%</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/mongodb" width="16" valign="middle" /> <b>MongoDB</b></td>
+    <td><code>████████░░</code>&nbsp;80%</td>
+    <td><img src="https://cdn.simpleicons.org/docker" width="16" valign="middle" /> <b>Docker</b></td>
+    <td><code>█████████░</code>&nbsp;90%</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="16" valign="middle" /> <b>Power BI</b></td>
+    <td><code>█████████░</code>&nbsp;90%</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><img src="https://cdn.simpleicons.org/apachesuperset" width="16" valign="middle" /> <b>Apache Superset</b></td>
+    <td><code>████████░░</code>&nbsp;80%</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><img src="https://cdn.simpleicons.org/apachespark" width="16" valign="middle" /> <b>Apache Spark</b></td>
+    <td><code>████████░░</code>&nbsp;80%</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><img src="https://cdn.simpleicons.org/googlecloud" width="16" valign="middle" /> <b>GCP</b></td>
+    <td><code>███████░░░</code>&nbsp;70%</td>
+  </tr>
+</table>
 
-</div>
-
-<div align="center">
-
-## Core Toolkit
-
-| Category | Stack |
-| :--- | :--- |
-| **Languages** | <img src="https://cdn.simpleicons.org/python" width="18" /> Python, SQL, <img src="https://cdn.simpleicons.org/cplusplus" width="18" /> C++, <img src="https://cdn.simpleicons.org/c" width="18" /> C, <img src="https://cdn.simpleicons.org/nvidia" width="18" /> CUDA C, <img src="https://cdn.simpleicons.org/rust/E34F26" width="18" /> Rust |
-| **ML & Data Science** | <img src="https://cdn.simpleicons.org/scikitlearn" width="18" /> [Scikit-Learn](https://scikit-learn.org), <img src="https://cdn.simpleicons.org/pandas" width="18" /> Pandas, <img src="https://cdn.simpleicons.org/numpy" width="18" /> NumPy, <img src="https://cdn.simpleicons.org/tensorflow" width="18" /> TensorFlow, <img src="https://cdn.simpleicons.org/pytorch" width="18" /> PyTorch, <img src="https://cdn.simpleicons.org/streamlit" width="18" /> Streamlit |
-| **Databases** | <img src="https://cdn.simpleicons.org/mysql" width="18" /> MySQL, <img src="https://cdn.simpleicons.org/postgresql" width="18" /> PostgreSQL, <img src="https://cdn.simpleicons.org/mongodb" width="18" /> MongoDB |
-| **Tools & Platforms** | <img src="https://cdn.simpleicons.org/docker" width="18" /> Docker, <img src="https://cdn.simpleicons.org/git" width="18" /> Git, <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="18" /> Power BI, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="18" /> VS Code, <img src="https://cdn.simpleicons.org/apachesuperset" width="18" /> Apache Superset, <img src="https://cdn.simpleicons.org/apachespark" width="18" /> Apache Spark, <img src="https://cdn.simpleicons.org/googlecloud" width="18" /> GCP |
-
-</div>
-
-<div align="center">
-
-## Philosophy
-
-I'm a strong advocate for continuous learning. While my core focus is data science, I actively explore adjacent domains — interdisciplinary experience is what fuels genuine innovation and sharpens problem-solving.
-
-</div>
-
-<div align="center">
+<br>
 
 ## Acknowledgements
 
 My research direction and professional growth have been shaped significantly by the guidance of the **Annamalaiyar Foundation** and the **Tiruchendur Murugan Arakkattalai**, whose support makes this work possible.
-
-</div>
-
-<div align="center">
 
 ## Connect With Me
 
