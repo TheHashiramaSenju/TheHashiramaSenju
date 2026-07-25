@@ -1,19 +1,18 @@
 <div align="center">
 
-# Hi, I'm TheHashiramaSenju a.k.a Darshan Venkataramanan 👋
+# Hi, I'm TheHashiramaSenju 
 
 **MLOps Engineer & Machine Learning Educator**
 
 </div>
-
 <table align="center">
 <tr>
-<td width="38%" align="center">
+<td width="28%" align="center">
 
-<img src="./ascii-portrait.png" width="330" style="border-radius: 50%;"/>
+<img src="./ascii-portrait.png" width="220" style="border-radius: 50%;"/>
 
 </td>
-<td width="62%">
+<td width="72%">
 
 ```bash
 darshan@ml-lab:~$ open case_file.txt
@@ -40,12 +39,7 @@ FIELD NOTES    :
 </table>
 
 ---
-
-## About Me
-
-I'm a Data Scientist and Machine Learning Educator building practical, production-ready ML systems. My research is funded by the **Annamalaiyar Foundation**, and I work under the mentorship of the **Tiruchendur Murugan Arakkattalai**.
-
-My focus is translating that support into real skill-building within the community — not just publishing papers, but shipping tools people can actually use.
+<div align="center">
 
 ## What I'm Doing
 
@@ -53,6 +47,10 @@ My focus is translating that support into real skill-building within the communi
 - 📚 **Focus Areas:** Deepening Machine Learning research, advanced Linear Algebra, and Differential Equations.
 - 🔬 **Exploring:** Bio-ML research pipelines and advanced Reinforcement Learning (RL) training methodologies.
 - 🤝 **Collaborations:** Open to research partnerships in Bio-ML, Reinforcement Learning, and deep ML implementation.
+
+</div>
+
+<div align="center">
 
 ## Core Toolkit
 
@@ -63,15 +61,23 @@ My focus is translating that support into real skill-building within the communi
 | **Databases** | <img src="https://cdn.simpleicons.org/mysql" width="18" /> MySQL, <img src="https://cdn.simpleicons.org/postgresql" width="18" /> PostgreSQL, <img src="https://cdn.simpleicons.org/mongodb" width="18" /> MongoDB |
 | **Tools & Platforms** | <img src="https://cdn.simpleicons.org/docker" width="18" /> Docker, <img src="https://cdn.simpleicons.org/git" width="18" /> Git, <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="18" /> Power BI, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="18" /> VS Code, <img src="https://cdn.simpleicons.org/apachesuperset" width="18" /> Apache Superset, <img src="https://cdn.simpleicons.org/apachespark" width="18" /> Apache Spark, <img src="https://cdn.simpleicons.org/googlecloud" width="18" /> GCP |
 
+</div>
+
+<div align="center">
 
 ## Philosophy
 
 I'm a strong advocate for continuous learning. While my core focus is data science, I actively explore adjacent domains — interdisciplinary experience is what fuels genuine innovation and sharpens problem-solving.
 
+</div>
+
+<div align="center">
+
 ## Acknowledgements
 
 My research direction and professional growth have been shaped significantly by the guidance of the **Annamalaiyar Foundation** and the **Tiruchendur Murugan Arakkattalai**, whose support makes this work possible.
 
+</div>
 
 <div align="center">
 
