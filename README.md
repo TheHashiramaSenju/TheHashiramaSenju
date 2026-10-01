@@ -7,7 +7,7 @@
 <tr>
 <td width="25%" align="center">
 
-<img src="./ascii_portrait.png" width="150" style="border-radius: 20%;"/>
+<img src="assets/ascii_portrait.png" width="150" style="border-radius: 20%;"/>
 
 </td>
 <td width="75%" valign="top">
