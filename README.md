@@ -1,3 +1,5 @@
+<img src="/assets/gifdarshan-neural-drug-discovery-hero-v13.gif" width="150" style="border-radius: 20%;"/>
+
 <table align="center">
 <tr>
 <td width="25%" align="center">
