@@ -1,4 +1,7 @@
-<img src="/assets/gifdarshan-neural-drug-discovery-hero-v13.gif" width="150" style="border-radius: 20%;"/>
+
+<div align = "center">
+<img src="assets/darshan-neural-drug-discovery-hero-v13.gif"/>
+</div>
 
 <table align="center">
 <tr>
